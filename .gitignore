@@ -1,0 +1,14 @@
+/.DS_Store
+/__pycache__
+/assets
+/backup
+/checkpoint
+/docs
+/resnet20_cifar10_bat_SAM_rho0.01.log
+/resnet20_cifar10_bat_SAM_rho0.05.log
+/resnet20_cifar10_bat_SAM_rho0.1.log
+/resnet20_cifar10_bat_SAM_rho0.15.log
+/resnet20_cifar10_bat_SAM_rho0.2.log
+/resnet20_cifar10_bat_SGD.log
+/save
+/wandb
